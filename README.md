@@ -1,7 +1,5 @@
 # Welcome!
 
- 
-
 ## I'm Andrey Olv!
 
  
@@ -24,6 +22,7 @@
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />](https://andreyolv.github.io/)
 
+<br />
 
 ### 📕 Latest Blog Posts
 
@@ -35,7 +34,6 @@
 * [The best Youtube channels to learn Data Science for free](https://andreyyolv.medium.com/the-best-youtube-channels-to-learn-data-science-for-free-7856182da1e9) 
 
 <!-- BLOG-POST-LIST:END -->
-<br />
 
 
 - Thanks for visiting.
