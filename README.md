@@ -24,7 +24,7 @@
 
 <br />
 
-### 📕 Latest Blog Posts
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 * [My MOOCS in Data Science](https://andreyyolv.medium.com/my-moocs-in-data-science-5248251d5b30) 
