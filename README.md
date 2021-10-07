@@ -20,13 +20,9 @@
 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/andreyolv/)
 
-[<img align="left" alt="cabreirajm | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://andreyolv.medium.com/)
+[<img align="left" alt="andreyolv | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://andreyolv.medium.com/)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=http://andreyolv/andreyolv.github.io)(http://andreyolv/andreyolv.github.io)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreyolv/)(https://www.linkedin.com/in/andreyolv/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />](https://andreyolv.github.io/)
 
 
 - Thanks for visiting.
