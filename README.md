@@ -18,18 +18,13 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://www.linkedin.com/in/andreyolv/)](http://andreyolv/andreyolv.github.io)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=http://andreyolv/andreyolv.github.io)(http://andreyolv/andreyolv.github.io)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/andreyolv/)(https://www.linkedin.com/in/andreyolv/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreyolv/)(https://www.linkedin.com/in/andreyolv/)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
 
 
 - Thanks for visiting.
 
 - Enjoy it!! o/
-
-----------------------------------------------------------------------------------
-
-(Andrey Olv) = Andrey Olv.
-
-LINK_GIT = https://github.com/andreyolv.
