@@ -1,5 +1,5 @@
 # Welcome!
-<img src="/img/Full-Logo.jpg">
+<img src="/img/Full-Logo-5.jpg">
 
 ## I'm Andrey Olv!
 
