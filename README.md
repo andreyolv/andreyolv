@@ -1,7 +1,5 @@
 # Welcome!
-<p align="center">
-  <img src="/img/Full-Logo/4.jpg" />
-</p>
+![image](https://github.com/andreyolv/andreyolv/img/Full-Logo/4.jpg)
 
 
 
