@@ -1,5 +1,5 @@
 # Welcome!
-![image](https://github.com/andreyolv/andreyolv/img/Full-Logo-4.jpg)
+![Alt text](relative/path/to/img/Full-Logo-4.jpg)
 
 
 
