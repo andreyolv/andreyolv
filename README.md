@@ -1,7 +1,10 @@
 # Welcome!
 <p align="center">
-  <img src="/img/Full-Logo/4.jpg" >
+  <img src="/img/Full-Logo/4.jpg">
 </p>
+
+
+
 ## I'm Andrey Olv!
 
  
