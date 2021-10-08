@@ -1,5 +1,5 @@
 # Welcome!
-<img src="/img/Full-Logo-4.jpg">
+<img src="/img/Full-Logo.jpg">
 
 
 
