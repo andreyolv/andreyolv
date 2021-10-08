@@ -1,5 +1,5 @@
 # Welcome!
-![image](https://github.com/andreyolv/andreyolv/img/Full-Logo/4.jpg)
+![image](https://github.com/andreyolv/andreyolv/img/Full-Logo-4.jpg)
 
 
 
