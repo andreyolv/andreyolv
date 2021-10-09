@@ -34,7 +34,7 @@ Here are my list of personal and original projects:
 
 <br />
 
-## 📕 Blog Posts
+## Useful Posts
 
 <!-- BLOG-POST-LIST:START -->
 * [How I learned Data Science](https://github.com/andreyolv/learningdatascience) 
@@ -42,7 +42,7 @@ Here are my list of personal and original projects:
 
 <!-- BLOG-POST-LIST:END -->
 
----
-- Thanks for visiting.
 
-- Enjoy it!! o/
+
+Thanks for visiting.
+Enjoy it!! o/
