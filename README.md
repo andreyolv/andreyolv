@@ -7,13 +7,11 @@
 
  
 
-:computer: I'm Data Scientist!
+:computer: I'm Data Scientist and Telecommunication Engineer!
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning everything.
-
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2021 Goals: Create one new project per week and find a new job as a junior data scientist.
 
  
 ## Projects:
@@ -44,7 +42,7 @@ Here are my list of personal and original projects:
 
 <!-- BLOG-POST-LIST:END -->
 
-
+---
 - Thanks for visiting.
 
 - Enjoy it!! o/
