@@ -22,7 +22,7 @@ Here are my list of personal and original projects:
 * **Email Webscraping with Automatic IP Proxy Switching:** https://bit.ly/
 * **Dashboard Infos and Insights - ANATEL Dataset:** https://bit.ly/
 * **Real-Time Image Detection - Street Surveillance:** https://bit.ly/
-* **Quantitative Finance System for Future Germany Stock Market Index:** https://bit.ly/
+* **Quantitative Finance System for Germany Stock Market Index:** https://bit.ly/
 
 
 ---
