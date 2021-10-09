@@ -19,10 +19,10 @@
 ## Projects:
 Here are my list of personal and original projects:
 
-* **Email Webscraping with Automatic IP Proxy Switching:** https://bit.ly/
-* **Dashboard Infos and Insights - ANATEL Dataset:** https://bit.ly/
-* **Real-Time Image Detection - Street Surveillance:** https://bit.ly/
-* **Quantitative Finance System for Germany Stock Market Index:** https://bit.ly/
+* [**Email Webscraping with Automatic IP Proxy Switching**]()
+* [**Dashboard Infos and Insights - ANATEL Dataset**]()
+* [**Real-Time Image Detection - Street Surveillance**]()
+* [**Quantitative Finance System for Germany Stock Market Index**]()
 
 
 ---
@@ -36,14 +36,11 @@ Here are my list of personal and original projects:
 
 <br />
 
-## 📕 Latest Blog Posts
+## 📕 Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-* [My MOOCS in Data Science](https://andreyyolv.medium.com/my-moocs-in-data-science-5248251d5b30) 
-* [Awesome Githubs to learn Data Science](https://andreyyolv.medium.com/awesome-githubs-to-learn-data-science-72759e2314b9)
-* [The best Kaggle kernels to learn Data Science](https://andreyyolv.medium.com/the-best-kaggle-kernels-to-learn-data-science-b564141e9b12)
-* [Most common and useful libraries for Data Science to read documentation](https://andreyyolv.medium.com/most-common-and-useful-libraries-for-data-science-to-read-documentation-98d4e1a9b294) 
-* [The best Youtube channels to learn Data Science for free](https://andreyyolv.medium.com/the-best-youtube-channels-to-learn-data-science-for-free-7856182da1e9) 
+* [How I learned Data Science](https://github.com/andreyolv/learningdatascience) 
+* [Complete Guideline for Data Science Projects](https://github.com/andreyolv/guidelineprojects)
 
 <!-- BLOG-POST-LIST:END -->
 
