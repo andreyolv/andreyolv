@@ -16,8 +16,8 @@
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
  
-## Projetos:
-Lista de projetos em Jupyter Notebook:
+## Projects:
+Here are my list of personal and original projects:
 
 * **Email Webscraping with Automatic IP Proxy Switching:** https://bit.ly/
 * **Dashboard Infos and Insights - ANATEL Dataset:** https://bit.ly/
