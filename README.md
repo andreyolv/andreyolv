@@ -19,9 +19,10 @@
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Webscraping de E-mail com Mudança Automática de Proxy IP:** https://bit.ly/
-* **Projeto1:** https://bit.ly/
-* **Projeto2:** https://bit.ly/
+* **Email Webscraping with Automatic IP Proxy Switching:** https://bit.ly/
+* **Dashboard Infos and Insights - ANATEL Dataset:** https://bit.ly/
+* **Real-Time Image Detection - Street Surveillance:** https://bit.ly/
+* **Quantitative Finance System for Future Germany Stock Market Index:** https://bit.ly/
 
 
 ---
