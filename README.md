@@ -34,12 +34,6 @@ Here are my list of personal and original projects:
 <a href="https://andreyolv.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 </div>
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/andreyolv/)
-
-[<img align="left" alt="andreyolv | medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />](https://andreyolv.medium.com/)
-
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/github.svg" />](https://andreyolv.github.io/)
-
 <br />
 
 ## 📕 Latest Blog Posts
