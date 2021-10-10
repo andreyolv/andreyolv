@@ -22,10 +22,6 @@
 
 * :x: Become a Kaggle Expert.
 
-:dart: 2022 Goals: 
-
-* :x: Become a Kaggle Master.
-
 ## Best Data Science Projects:
 Here are my list of personal and original projects:
 * [**Email Webscraping with Automatic IP Proxy Switching**]()
