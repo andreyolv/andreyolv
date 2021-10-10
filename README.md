@@ -10,14 +10,18 @@
 
 :outbox_tray: 2021 Goals: Create one new project per week and find a new job as a junior data scientist.
 
-## Projects:
+## Best Data Science Projects:
 Here are my list of personal and original projects:
 * [**Email Webscraping with Automatic IP Proxy Switching**]()
 * [**Dashboard Infos and Insights - ANATEL Dataset**]()
 * [**Real-Time Image Detection - Street Surveillance**]()
 * [**Quantitative Finance System for Germany Stock Market Index**]()
----
 
+## Complete Data Science Portifolio:
+You can see a summary of all my data science projects here:
+[**Portifolio Andrey Olv**](https://github.com/andreyolv/datascienceportifolio)
+
+---
 ## Useful Posts
 <!-- BLOG-POST-LIST:START -->
 * [How I learned Data Science](https://github.com/andreyolv/learningdatascience) 
