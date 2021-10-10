@@ -6,23 +6,29 @@
 ## I'm Andrey Olv!
 :computer: I'm Data Scientist and Telecommunication Engineer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Curitiba, Brazil.
 
 :dart: 2021 Goals:
 
-* :heavy_check_mark: Study +40 university courses for data science (PT-BR).
+* :heavy_check_mark: Study +40 university courses for Data Science (PT-BR).
 
-* :heavy_check_mark: Study +25 university courses for data science (EN-US).
+* :heavy_check_mark: Study +25 university courses for Data Science (EN-US).
 
-* :heavy_check_mark: Read documentation +50 libraries for data science.
+* :heavy_check_mark: Read +50 libraries documentation for Data Science.
 
-* :heavy_check_mark: Create a complete guideline for Data Science Projects.
+* :heavy_check_mark: Create a complete guideline for Data Science projects.
 
 * :ok: Create one new project per week (from october to december).
+
+* :x: Become a Kaggle Expert.
+
+* :x: Earn $500 on the UpWork.
 
 * :x: Find my first full time job as a junior data scientist.
 
 :dart: 2022 Goals: 
+
+* :x: Earn $5000 on the UpWork.
 
 * :x: Become a Kaggle Master.
 
