@@ -22,8 +22,6 @@
 
 * :x: Become a Kaggle Expert.
 
-* :x: Earn $200 on the UpWork.
-
 :dart: 2022 Goals: 
 
 * :x: Become a Kaggle Master.
