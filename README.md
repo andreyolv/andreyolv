@@ -10,9 +10,9 @@
 
 :dart: 2021 Goals:
 
-* :heavy_check_mark: Study +40 university courses for data science (PT-BR :flag_brazil:).
+* :heavy_check_mark: Study +40 university courses for data science (PT-BR).
 
-* :heavy_check_mark: Study +25 university courses for data science (EN :flag_us:).
+* :heavy_check_mark: Study +25 university courses for data science (EN).
 
 * :heavy_check_mark: Read documentation +50 libraries for data science.
 
