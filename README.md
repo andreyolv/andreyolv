@@ -19,7 +19,7 @@ Here are my list of personal and original projects:
 
 ## Complete Data Science Portifolio:
 You can see a summary of all my data science projects here:
-[**Portifolio Andrey Olv**](https://github.com/andreyolv/datascienceportifolio)
+[**Portfolio Andrey Olv**](https://github.com/andreyolv/datascienceportifolio)
 
 ---
 ## Useful Posts
