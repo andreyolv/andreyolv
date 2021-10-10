@@ -8,7 +8,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:outbox_tray: 2021 Goals: Create one new project per week and find a my first full time job as a junior data scientist.
+:outbox_tray: 2021 Goals: Create one new project per week and find my first full time job as a junior data scientist.
 
 ## Best Data Science Projects:
 Here are my list of personal and original projects:
