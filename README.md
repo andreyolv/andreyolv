@@ -10,20 +10,21 @@
 
 :dart: 2021 Goals:
 
-:heavy_check_mark: Study +40 university courses for data sciencein in bralizian portuguese.
+* :heavy_check_mark: Study +40 university courses for data sciencein in bralizian portuguese.
 
-:heavy_check_mark: Study +25 university courses for data science in english.
+* :heavy_check_mark: Study +25 university courses for data science in english.
 
-:heavy_check_mark: Read documentation +50 libraries for data science.
+* :heavy_check_mark: Read documentation +50 libraries for data science.
 
-:heavy_check_mark: Create a complete guideline for Data Science Projects.
+* :heavy_check_mark: Create a complete guideline for Data Science Projects.
 
-:ok: Create one new project per week (from october to december).
+* :ok: Create one new project per week (from october to december).
 
-:x: Find my first full time job as a junior data scientist.
+* :x: Find my first full time job as a junior data scientist.
 
 :dart: 2022 Goals: 
-:x: Become a Kaggle Master.
+
+* :x: Become a Kaggle Master.
 
 ## Best Data Science Projects:
 Here are my list of personal and original projects:
