@@ -24,8 +24,6 @@
 
 * :x: Earn $500 on the UpWork.
 
-* :x: Find my first full time job as a junior data scientist.
-
 :dart: 2022 Goals: 
 
 * :x: Earn $5000 on the UpWork.
