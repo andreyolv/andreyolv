@@ -17,7 +17,7 @@ Here are my list of personal and original projects:
 * [**Real-Time Image Detection - Street Surveillance**]()
 * [**Quantitative Finance System for Germany Stock Market Index**]()
 
-## Complete Data Science Portifolio:
+## Complete Data Science Portfolio:
 You can see a summary of all my data science projects here:
 [**Portfolio Andrey Olv**](https://github.com/andreyolv/datascienceportifolio)
 
