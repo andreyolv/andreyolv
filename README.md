@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/49295662/136858514-026ff803-1f40-4f96-
 ## I'm Andrey Olv!
 :computer: I'm Data Scientist and my goal is to become a kaggle grandmaster!
 
-:house_with_garden: I’m from Curitiba, Brazil.
+:house_with_garden: I’m from Curitiba, Brazil, but I can work remotely for any company around the world!
 
 :dart: 2021 Goals:
 
