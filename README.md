@@ -21,10 +21,6 @@ https://user-images.githubusercontent.com/49295662/136858514-026ff803-1f40-4f96-
 
 * :heavy_check_mark: Create a complete guideline for Data Science projects.
 
-* :ok: Create one new project per week (from october to december).
-
-* :x: Become a Kaggle Expert.
-
 ## Best Data Science Projects:
 Here are my list of personal and original projects:
 * [**Email Webscraping with Automatic IP Proxy Switching**]()
