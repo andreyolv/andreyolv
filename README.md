@@ -13,20 +13,30 @@ https://user-images.githubusercontent.com/49295662/136858514-026ff803-1f40-4f96-
 
 :dart: 2021 Goals:
 
-* :heavy_check_mark: Study +40 university courses for Data Science (PT-BR).
+* :heavy_check_mark: I studied 40+ university courses for Data Science.(Mathematics, Computer Science, Statistics, Machine Learning)(PT-BR)
 
-* :heavy_check_mark: Study +25 university courses for Data Science (EN-US).
+* :heavy_check_mark: I studied 15+ university courses for Data Science.(Stanford and others)(EN-US)
 
-* :heavy_check_mark: Read +50 libraries documentation for Data Science.
+* :heavy_check_mark: I studied 5+ Coursera Programs and 10+ Udemy courses.
 
-* :heavy_check_mark: Create a complete guideline for Data Science projects.
+* :heavy_check_mark: I readed +50 libraries documentation for Data Science.
+
+* :heavy_check_mark: I readed +30 Data Science papers.
+
+* :heavy_check_mark: I readed a lot of code data science projects and kaggle solutions
+
+* :heavy_check_mark: I created a complete guideline for my Data Science projects.
+
+* :heavy_check_mark: I did 2 simple projects.(1 and 2) (almost ready)
+
+* :heavy_check_mark: I'm doing 2 complex projects.(3 and 4) (cooming soon)
 
 ## Best Data Science Projects:
 Here are my list of personal and original projects:
-* [**Email Webscraping with Automatic IP Proxy Switching**]()
-* [**Dashboard Infos and Insights - ANATEL Dataset**]()
-* [**Real-Time Image Detection - Street Surveillance**]()
-* [**Quantitative Finance System for Germany Stock Market Index**]()
+* [**(1) Email Webscraping with Automatic IP Proxy Switching**]()
+* [**(2) Dashboard Infos and Insights - ANATEL Dataset**]()
+* [**(3) Real-Time Image Detection - Street Surveillance**]()
+* [**(4) Quantitative Finance System for Germany Stock Market Index**]()
 
 ## Complete Data Science Portfolio:
 You can see a summary of all my data science projects here:
