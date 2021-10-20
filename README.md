@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/49295662/136858514-026ff803-1f40-4f96-
 
 * :heavy_check_mark: I did 2 simple projects.(1 and 2) (almost ready)
 
-* :heavy_check_mark: I'm doing 2 complex projects.(3 and 4) (cooming soon)
+* ⌛ I'm doing 2 complex projects.(3 and 4) (cooming soon)
 
 ## Best Data Science Projects:
 Here are my list of personal and original projects:
