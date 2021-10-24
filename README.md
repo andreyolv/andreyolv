@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/49295662/136858514-026ff803-1f40-4f96-
 </p>
 
 ## I'm Andrey Olv!
-:computer: I'm Data Scientist and my goal is to become a kaggle grandmaster!
+:computer: I'm Data Scientist and my mission is to become an excellent data science professional, capable of creating high-value solutions for companies and society through technology. And also to become a kaggle grandmaster!
 
 :house_with_garden: I’m from Curitiba, Brazil, but I can work remotely for any company around the world!
 
