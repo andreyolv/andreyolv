@@ -31,7 +31,7 @@ https://user-images.githubusercontent.com/49295662/136858514-026ff803-1f40-4f96-
 
 * ⌛ I'm doing 2 complex projects.(3 and 4) (cooming soon)
 
-If you want to know more about me and my goals, i'll tell you more [here]()
+If you want to know more about me and my goals, i'll tell you more [here](https://andreyolv.github.io/#more)
 
 ## Best Data Science Projects:
 Here are my list of personal and original projects:
@@ -47,9 +47,11 @@ You can see a summary of all my data science projects here:
 ---
 ## Useful Posts
 <!-- BLOG-POST-LIST:START -->
+* [How to create your Data Science learning plan - From scratch to mastery]()
 * [How I learned, and I keep learning Data Science](https://github.com/andreyolv/learningdatascience)
-* [My lastest professional experience as engineer](https://andreyolv.github.io/#experience) 
 * [Complete Guideline for Data Science Projects](https://github.com/andreyolv/guidelineprojects)
+* [My lastest professional experience as engineer](https://andreyolv.github.io/#experience) 
+
 <!-- BLOG-POST-LIST:END -->
 
 ## About me
