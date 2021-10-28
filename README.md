@@ -49,7 +49,7 @@ You can see a summary of all my data science projects here:
 <!-- BLOG-POST-LIST:START -->
 * [How to create your Data Science learning plan - From scratch to mastery]()
 * [How I learned, and I keep learning Data Science](https://github.com/andreyolv/learningdatascience)
-* [Complete Guideline for Data Science Projects](https://github.com/andreyolv/guidelineprojects)
+* [Complete Guideline for Data Science Projects - Version 1](https://github.com/andreyolv/guidelineprojects)
 * [My lastest professional experience as engineer](https://andreyolv.github.io/#experience) 
 
 <!-- BLOG-POST-LIST:END -->
