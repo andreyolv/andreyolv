@@ -40,16 +40,15 @@ Here are my list of personal and original projects:
 * [**(3) Real-Time Image Detection - Street Surveillance**]()
 * [**(4) Quantitative Finance System for Germany Stock Market Index**]()
 
-## Complete Data Science Portfolio:
-You can see a summary of all my data science projects here:
-[**Portfolio Andrey Olv**](https://github.com/andreyolv/datascienceportifolio)
+## Data Science Portfolio(https://github.com/andreyolv/portfolio)
+## Kaggle Solutions(https://github.com/andreyolv/kaggle)
 
 ---
 ## Useful Posts
 <!-- BLOG-POST-LIST:START -->
 * [How to create your Data Science learning plan - From scratch to mastery]()
-* [How I learned, and I keep learning Data Science](https://github.com/andreyolv/learningdatascience)
-* [Complete Guideline for Data Science Projects - Version 1](https://github.com/andreyolv/guidelineprojects)
+* [How I learned, and I keep learning Data Science](https://github.com/andreyolv/learning)
+* [Complete Guideline for Data Science Projects - Version 1]()
 * [My lastest professional experience as engineer](https://andreyolv.github.io/#experience) 
 
 <!-- BLOG-POST-LIST:END -->
