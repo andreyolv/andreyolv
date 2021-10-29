@@ -40,8 +40,8 @@ Here are my list of personal and original projects:
 * [**(3) Real-Time Image Detection - Street Surveillance**]()
 * [**(4) Quantitative Finance System for Germany Stock Market Index**]()
 
-## Data Science Portfolio(https://github.com/andreyolv/portfolio)
-## Kaggle Solutions(https://github.com/andreyolv/kaggle)
+## [Data Science Portfolio](https://github.com/andreyolv/portfolio)
+## [Kaggle Solutions](https://github.com/andreyolv/kaggle)
 
 ---
 ## Useful Posts
