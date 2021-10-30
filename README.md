@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/49295662/136858514-026ff803-1f40-4f96-
 
 * :heavy_check_mark: I readed a lot of code data science projects and kaggle solutions
 
-* :heavy_check_mark: I created a complete guideline for my Data Science projects.
+* :heavy_check_mark: I created a guideline for my Data Science projects.
 
 * :heavy_check_mark: I did 2 simple projects.(1 and 2) (almost ready)
 
@@ -48,7 +48,7 @@ Here are my list of personal and original projects:
 <!-- BLOG-POST-LIST:START -->
 * [How to create your Data Science learning plan - From scratch to mastery]()
 * [How I learned, and I keep learning Data Science](https://github.com/andreyolv/learning)
-* [Complete Guideline for Data Science Projects - Version 1]()
+* [Guideline for Data Science Projects]()
 * [My lastest professional experience as engineer](https://andreyolv.github.io/#experience) 
 
 <!-- BLOG-POST-LIST:END -->
