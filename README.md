@@ -13,7 +13,7 @@ https://user-images.githubusercontent.com/49295662/136858514-026ff803-1f40-4f96-
 
 :dart: 2021 Goals:
 
-* :heavy_check_mark: I've studied massively theory and fundamentals lectures according to [my plan](https://github.com/andreyolv/learning).
+* :heavy_check_mark: I've studied massively theory and fundamentals lectures according to [my Data Science learning plan](https://github.com/andreyolv/learning).
 
 * :heavy_check_mark: I've read libraries documentation and papers.
 
