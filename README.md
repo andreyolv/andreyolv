@@ -13,17 +13,11 @@ https://user-images.githubusercontent.com/49295662/136858514-026ff803-1f40-4f96-
 
 :dart: 2021 Goals:
 
-* :heavy_check_mark: I studied 40+ university courses for Data Science.(Mathematics, Computer Science, Statistics, Machine Learning)(PT-BR)
+* :heavy_check_mark: I massively studied theory and fundamentals lectures following [my plan](https://github.com/andreyolv/learning).
 
-* :heavy_check_mark: I studied 15+ university courses for Data Science.(Stanford and others)(EN-US)
+* :heavy_check_mark: I readed libraries documentation and papers.
 
-* :heavy_check_mark: I studied 5+ Coursera Programs and 10+ Udemy courses.
-
-* :heavy_check_mark: I readed +50 libraries documentation for Data Science.
-
-* :heavy_check_mark: I readed +30 Data Science papers.
-
-* :heavy_check_mark: I readed a lot of code data science projects and kaggle solutions
+* :heavy_check_mark: I readed projects in youtube channels, githubs, blogs, kaggle.
 
 * :heavy_check_mark: I created a guideline for my Data Science projects.
 
@@ -31,7 +25,7 @@ https://user-images.githubusercontent.com/49295662/136858514-026ff803-1f40-4f96-
 
 * ⌛ I'm doing 2 complex projects.(3 and 4) (cooming soon)
 
-If you want to know more about me and my goals, i'll tell you more [here](https://andreyolv.github.io/#more)
+More about me and my goals [here](https://andreyolv.github.io/#more)
 
 ## Best Data Science Projects:
 Here are my list of personal and original projects:
