@@ -13,19 +13,19 @@ https://user-images.githubusercontent.com/49295662/136858514-026ff803-1f40-4f96-
 
 :dart: 2021 Goals:
 
-* :heavy_check_mark: I massively studied theory and fundamentals lectures following [my plan](https://github.com/andreyolv/learning).
+* :heavy_check_mark: I've studied massively theory and fundamentals lectures according to [my plan](https://github.com/andreyolv/learning).
 
-* :heavy_check_mark: I readed libraries documentation and papers.
+* :heavy_check_mark: I've read libraries documentation and papers.
 
-* :heavy_check_mark: I readed projects in youtube channels, githubs, blogs, kaggle.
+* :heavy_check_mark: I've read projects on githubs, blogs, youtube channels, kaggle.
 
-* :heavy_check_mark: I created a guideline for my Data Science projects.
+* :heavy_check_mark: I've created a guideline for my Data Science projects.
 
-* :heavy_check_mark: I did 2 simple projects.(1 and 2) (almost ready)
+* :heavy_check_mark: I've created 2 simple projects.(1 and 2) (almost ready)
 
 * ⌛ I'm doing 2 complex projects.(3 and 4) (cooming soon)
 
-More about me and my goals [here](https://andreyolv.github.io/#more)
+More about me and my goals [here](https://andreyolv.github.io/#more).
 
 ## Best Data Science Projects:
 Here are my list of personal and original projects:
@@ -40,8 +40,8 @@ Here are my list of personal and original projects:
 ---
 ## Useful Posts
 <!-- BLOG-POST-LIST:START -->
-* [How to create your Data Science learning plan - From scratch to mastery]()
-* [How I learned, and I keep learning Data Science](https://github.com/andreyolv/learning)
+* [How to create your Data Science learning plan]()
+* [My Data Science learning plan](https://github.com/andreyolv/learning)
 * [Guideline for Data Science Projects]()
 * [My lastest professional experience as engineer](https://andreyolv.github.io/#experience) 
 
