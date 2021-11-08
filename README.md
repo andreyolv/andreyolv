@@ -21,7 +21,7 @@ https://user-images.githubusercontent.com/49295662/136858514-026ff803-1f40-4f96-
 
 * :heavy_check_mark: I've created a [guideline for Data Science projects]().
 
-* ⌛ I'm building my portfolio.
+* ⌛ I'm building [my portfolio](https://github.com/andreyolv/portfolio).
 
 More about me and my goals [here](https://andreyolv.github.io/#more).
 
