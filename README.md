@@ -11,13 +11,7 @@ https://user-images.githubusercontent.com/49295662/136858514-026ff803-1f40-4f96-
 
 :house_with_garden: I’m from Curitiba, Brazil, but I can work remotely for any company around the world!
 
-:dart: 2021 Goals:
-
 * :heavy_check_mark: I've studied massively theory and fundamentals lectures according to [my Data Science learning plan](https://github.com/andreyolv/learning).
-
-* :heavy_check_mark: I've created a [guideline for Data Science projects](https://docs.google.com/document/d/1l-bpaknqHLWqg7dKV7HBcOUKhQeWrJCJGNwrxoTesfA/edit?usp=sharing).
-
-* ⌛ I'm building [my portfolio](https://github.com/andreyolv/portfolio).
 
 ## Best Data Science Projects:
 Here are my list of personal and original projects:
