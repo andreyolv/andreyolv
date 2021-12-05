@@ -15,15 +15,9 @@ https://user-images.githubusercontent.com/49295662/136858514-026ff803-1f40-4f96-
 
 * :heavy_check_mark: I've studied massively theory and fundamentals lectures according to [my Data Science learning plan](https://github.com/andreyolv/learning).
 
-* :heavy_check_mark: I've read libraries documentation and papers.
-
-* :heavy_check_mark: I've read projects on githubs, blogs, youtube channels, kaggle.
-
 * :heavy_check_mark: I've created a [guideline for Data Science projects](https://docs.google.com/document/d/1l-bpaknqHLWqg7dKV7HBcOUKhQeWrJCJGNwrxoTesfA/edit?usp=sharing).
 
 * ⌛ I'm building [my portfolio](https://github.com/andreyolv/portfolio).
-
-More about me and my goals [here](https://andreyolv.github.io/#more).
 
 ## Best Data Science Projects:
 Here are my list of personal and original projects:
@@ -33,8 +27,6 @@ Here are my list of personal and original projects:
 * [**(QF1) Quantitative Finance System for Germany Stock Market Index**](https://github.com/andreyolv/portfolio/tree/main/(QF1)%20Quantitative%20Finance%20System%20for%20Germany%20Stock%20Market%20Index)
 
 ## [Data Science Portfolio](https://github.com/andreyolv/portfolio)
-
-## [Kaggle Solutions](https://github.com/andreyolv/kaggle)
 
 ---
 ## Useful Posts
