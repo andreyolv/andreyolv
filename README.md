@@ -5,9 +5,8 @@
 </p>
 
 ## I'm Andrey Olv!
-:computer: I'm Data Scientist and my mission is to become an excellent data science professional, capable of creating high-value solutions for companies and society through technology. And also to become a kaggle grandmaster!
 
-:house_with_garden: I’m from Curitiba, Brazil, but I can work remotely for any company around the world!
+:house_with_garden: I’m from Curitiba, Brazil, but I can work remotely for any company around the world.
 
 * :heavy_check_mark: I've studied massively theory and fundamentals lectures according to [my Data Science learning plan](https://github.com/andreyolv/learning).
 
