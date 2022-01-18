@@ -1,14 +1,10 @@
 # Welcome!
 
-<p align="center">
-<img src="/img/logofull3.jpg">
-</p>
-
 ## I'm Andrey Olv!
 
-:house_with_garden: I’m from Curitiba, Brazil, but I can work remotely for any company around the world.
+:house_with_garden: I’m from Curitiba, Brazil.
 
-* :heavy_check_mark: I've studied massively theory and fundamentals lectures according to [my Data Science learning plan](https://github.com/andreyolv/learning).
+* :heavy_check_mark: I've studied massively theory and fundamentals lectures according to [my learning plan](https://github.com/andreyolv/learning).
 
 ## Best Data Science Projects:
 Here are my list of personal and original projects:
