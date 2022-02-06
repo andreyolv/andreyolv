@@ -2,10 +2,6 @@
 
 ## I'm Andrey Olv!
 
-:house_with_garden: I’m from Curitiba, Brazil.
-
-* :heavy_check_mark: I've studied massively theory and fundamentals lectures according to [my learning plan](https://github.com/andreyolv/learning).
-
 ## Best Data Science Projects:
 Here are my list of personal and original projects:
 * [**(S2) Dashboard Infos and Insights - ANATEL Dataset**](https://github.com/andreyolv/portfolio/tree/main/(S2)%20Dashboard%20Infos%20and%20Insights%20-%20ANATEL%20Dataset)
@@ -19,9 +15,8 @@ Here are my list of personal and original projects:
 ## Useful Posts
 <!-- BLOG-POST-LIST:START -->
 * [How to create your Data Science learning plan]()
-* [My Data Science learning plan](https://github.com/andreyolv/learning)
-* [Guideline for Data Science Projects](https://docs.google.com/document/d/1l-bpaknqHLWqg7dKV7HBcOUKhQeWrJCJGNwrxoTesfA/edit?usp=sharing)
-* [My lastest professional experience as engineer](https://andreyolv.github.io/#experience) 
+* [My Data Science learning plan]()
+* [Guideline for Data Science Projects]()
 
 <!-- BLOG-POST-LIST:END -->
 
