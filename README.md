@@ -2,23 +2,11 @@
 
 ## I'm Andrey Olv!
 
-## Best Data Science Projects:
+## Data Projects:
 Here are my list of personal and original projects:
 * [**(S2) Dashboard Infos and Insights - ANATEL Dataset**](https://github.com/andreyolv/portfolio/tree/main/(S2)%20Dashboard%20Infos%20and%20Insights%20-%20ANATEL%20Dataset)
 * [**(S3) Language Learning Platform**](https://github.com/andreyolv/portfolio/tree/main/(S3)%20Language%20Learning%20Platform)
-* [**(CV1) Real-Time Image Detection - Street Surveillance (future)**](https://github.com/andreyolv/portfolio/tree/main/(CV1)%20Real-Time%20Image%20Detection%20-%20Street%20Surveillance)
 * [**(QF1) Quantitative Finance System for Germany Stock Market Index (future)**](https://github.com/andreyolv/portfolio/tree/main/(QF1)%20Quantitative%20Finance%20System%20for%20Germany%20Stock%20Market%20Index)
-
-## [Data Science Portfolio](https://github.com/andreyolv/portfolio)
-
----
-## Useful Posts
-<!-- BLOG-POST-LIST:START -->
-* [How to create your Data Science learning plan]()
-* [My Data Science learning plan]()
-* [Guideline for Data Science Projects]()
-
-<!-- BLOG-POST-LIST:END -->
 
 ## About me
 <div>
