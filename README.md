@@ -1,7 +1,5 @@
 # Welcome!
 
-## I'm Andrey Olv!
-
 ## Data Projects:
 Here are my list of personal and original projects:
 * [**(S2) Dashboard Infos and Insights - ANATEL Dataset**](https://github.com/andreyolv/portfolio/tree/main/(S2)%20Dashboard%20Infos%20and%20Insights%20-%20ANATEL%20Dataset)
