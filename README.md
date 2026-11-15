@@ -15,6 +15,9 @@ flexible, vendor-neutral platforms with an exceptional long-term cost-benefit ra
 up here as hands-on contributions and discussions across projects such as Apache Airflow, Trino,
 ClickHouse, StarRocks, Redpanda, Velero, Backstage, Crossplane, and External Secrets.
 
+My CV, tech stack, articles, and a curated portfolio of the projects here are published at
+**[andreyolv.github.io](https://andreyolv.github.io/)**.
+
 I also maintain [Universidade Livre de Dados](https://github.com/andreyolv/UniversidadeLivreDeDados),
 a free collection of 80+ academic disciplines on Big Data and AI.
 
@@ -35,6 +38,7 @@ across Kubernetes, cloud, data, and platform engineering.
 
 <div>
 <a href="https://www.linkedin.com/in/andreyolv/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://andreyolv.github.io/"><img src="https://img.shields.io/badge/-Portfolio-%23673AB7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
 </div>
 
 <br />
